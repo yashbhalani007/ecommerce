@@ -18,7 +18,7 @@ function Contact(props) {
                     <div>
                         <li>
                             <i className="fa fa-map" />
-                            <p>Ibrahim salama squer</p>
+                            <p>Sarthana Jakatnaka</p>
                         </li>
                         <li>
                             <i className="far fa-envelope" />
@@ -35,7 +35,8 @@ function Contact(props) {
                     </div>
                 </div>
                 <div className="map">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3434.169697435729!2d32.276348325284225!3d30.6009763919899!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14f8595d96a96705%3A0xfdaa1dc224b44933!2z2KfYs9iq2KfYryDYp9mE2KXYs9mF2KfYudmK2YTZiiDYp9mE2LHZitin2LbZig!5e0!3m2!1sar!2seg!4v1670845962491!5m2!1sar!2seg" width={600} height={450} style={{ border: 0 }} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119066.52982230402!2d72.82229625000001!3d21.15920015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04e59411d1563%3A0xfe4558290938b042!2sSurat%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1698339622351!5m2!1sen!2sin" width={600} height={450} style={{border: 0}} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
+
                 </div>
             </section>
             {/* ===================== */}

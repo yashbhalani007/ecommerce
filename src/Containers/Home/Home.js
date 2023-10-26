@@ -53,6 +53,7 @@ function Home(props) {
                                 <i className="fa-solid fa-star-half-stroke" />
                             </div>
                             <h4>400 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>

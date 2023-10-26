@@ -25,7 +25,10 @@ function Shop(props) {
                                 <i className="fa-solid fa-star-half-stroke" />
                             </div>
                             <h4>400 EGP</h4>
+
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
+
                         </div>
                     </div>
                     <div className="pro">
@@ -41,6 +44,7 @@ function Shop(props) {
                                 <i className="fa-solid fa-star-half-stroke" />
                             </div>
                             <h4>400 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>
@@ -57,6 +61,7 @@ function Shop(props) {
                                 <i className="fa-regular fa-star" />
                             </div>
                             <h4>350 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>
@@ -73,6 +78,7 @@ function Shop(props) {
                                 <i className="fa-regular fa-star" />
                             </div>
                             <h4>350 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>
@@ -89,6 +95,7 @@ function Shop(props) {
                                 <i className="fa-regular fa-star" />
                             </div>
                             <h4>350 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>
@@ -105,6 +112,7 @@ function Shop(props) {
                                 <i className="fa-solid fa-star-half-stroke" />
                             </div>
                             <h4>450 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>
@@ -121,6 +129,7 @@ function Shop(props) {
                                 <i className="fa-regular fa-star" />
                             </div>
                             <h4>275 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>
@@ -137,6 +146,7 @@ function Shop(props) {
                                 <i className="fa-regular fa-star" />
                             </div>
                             <h4>290 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>
@@ -153,6 +163,7 @@ function Shop(props) {
                                 <i className="fa-regular fa-star" />
                             </div>
                             <h4>279 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>
@@ -169,6 +180,7 @@ function Shop(props) {
                                 <i className="fa-regular fa-star" />
                             </div>
                             <h4>230 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>
@@ -185,6 +197,7 @@ function Shop(props) {
                                 <i className="fa-solid fa-star-half-stroke" />
                             </div>
                             <h4>350 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>
@@ -201,6 +214,7 @@ function Shop(props) {
                                 <i className="fa-regular fa-star" />
                             </div>
                             <h4>285 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>
@@ -217,6 +231,7 @@ function Shop(props) {
                                 <i className="fa-solid fa-star-half-stroke" />
                             </div>
                             <h4>390 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>
@@ -233,6 +248,7 @@ function Shop(props) {
                                 <i className="fa-regular fa-star" />
                             </div>
                             <h4>198 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>
@@ -249,6 +265,7 @@ function Shop(props) {
                                 <i className="fa-regular fa-star" />
                             </div>
                             <h4>300 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>
@@ -265,6 +282,7 @@ function Shop(props) {
                                 <i className="fa-regular fa-star" />
                             </div>
                             <h4>265 EGP</h4>
+                            <a href="#"><i className="fa-solid fa-heart fav"></i></a>
                             <a href="#"><i className="fa-solid fa-cart-shopping cart" /></a>
                         </div>
                     </div>
